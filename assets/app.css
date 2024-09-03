@@ -607,6 +607,19 @@ video {
   --tw-backdrop-sepia: ;
 }
 
+.twcss-rounded {
+  border-radius: 0.25rem;
+}
+
+.twcss-bg-blue-600 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(37 99 235 / var(--tw-bg-opacity));
+}
+
+.twcss-p-8 {
+  padding: 2rem;
+}
+
 .twcss-text-6xl {
   font-size: 3.75rem;
   line-height: 1;
