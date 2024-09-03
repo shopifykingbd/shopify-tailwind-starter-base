@@ -612,6 +612,11 @@ video {
   line-height: 1;
 }
 
+.twcss-text-5xl {
+  font-size: 3rem;
+  line-height: 1;
+}
+
 .twcss-font-medium {
   font-weight: 500;
 }
@@ -627,4 +632,9 @@ video {
 .twcss-text-blue-600 {
   --tw-text-opacity: 1;
   color: rgb(37 99 235 / var(--tw-text-opacity));
+}
+
+.twcss-text-white {
+  --tw-text-opacity: 1;
+  color: rgb(255 255 255 / var(--tw-text-opacity));
 }
